@@ -53,7 +53,7 @@ Before you begin, ensure you have installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/job-portal.git
+git clone https://github.com/thesujith23/job-portal.git
 cd job-portal
 ```
 
