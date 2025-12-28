@@ -69,11 +69,9 @@ export default async function Jobdetails({params}){
         </div>
 
         <div className="mt-8 pt-6 border-t border-gray-200">
-          <button className="bg-blue-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition shadow-lg hover:shadow-xl
-        " ><Link href={`/jobs/${job.id}/apply`}>
+          <Link href={`/jobs/${job.id}/apply`} className='bg-blue-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition shadow-lg hover:shadow-xl'>
           Apply Now
         </Link>
-        </button>
         </div>
       </div>
     </div>

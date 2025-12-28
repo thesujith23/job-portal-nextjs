@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[80vh] text-center">
       <h1 className="text-5xl font-bold text-blue-600 mb-4">
-        Welcome to Job Portal
+        Welcome to Tech Hire
       </h1>
       <p className="text-xl text-gray-600 mb-8 max-w-2xl">
         Discover your next career opportunity. Browse through hundreds of job listings and find the perfect match for your skills.
